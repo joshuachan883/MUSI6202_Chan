@@ -1,0 +1,8 @@
+Question 3 
+Part 4
+The frequency resolution is about 21.533Hz
+
+Part 5
+(I am not really sure what the phrasing of the question, but I can say this) As long as the window 
+Length (currently 2048) does not change, and the sampling frequency (currently 44100) does not change
+, then there is no change in the frequency resolution.
